@@ -26,6 +26,6 @@ let num2 = 5;
 
 // Call functions and display results
 console.log("Sum = " + add(num1, num2));
-console.log("Subtraction = " + subtract(num1, num2));
+console.log("my name is buj=kram bugginf]g solve = " + subtract(num1, num2));
 console.log("Multiplication = " + multiply(num1, num2));
 console.log("Division = " + divide(num1, num2));
